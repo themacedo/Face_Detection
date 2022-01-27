@@ -18,7 +18,7 @@ Você vai precisar:
   <br><br>
 
 <p>
-    <img align="center" src="docs/Face_Detection.png">
+    <img align="center" src="Face_Detection.png">
 </p>
 
 ---
